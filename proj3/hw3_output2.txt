@@ -1,0 +1,26 @@
+a: 0110
+b: 0001
+c: 10010
+d: 0000
+e: 11011
+f: 0100
+g: 10100
+h: 11111
+i: 0101
+j: 11001
+k: 10101
+l: 10110
+n: 11100
+o: 11101
+p: 10111
+q: 11010
+r: 10001
+s: 0011
+t: 01110
+u: 0010
+v: 11000
+w: 11110
+x: 10000
+y: 10011
+z: 01111
+vvtuikirwutkasvnidoasnviopashvndpsanviodsanvpoasnfdiosapnfoiewnkjqwnfjwkqnwjeqnashiufnjkdfiashudkjfdashiufasdiuhfdsaiuhfadsiuflbasduflhbnasuilfhbnasuiflhbasdiufhasiudflhhfdisualjkfhdasiulkfhdasuisadlhfndsaiulfkhsabufildashnfiusakjwuhiefajbuwialsdbjkfhgweuialkrfhewuilafhbnwaikjfhnbewaisjkfhnbeiawufheawubnouciwhnfxuoenhwqoiuxnefhqwuoibcgrtyivgewribqwcoexirgoqwiurgnxqwiuoergnquiewogcroiuqwgxeuirgbciyegqwiuyeowgacogriyawogeriuasogdbfhjadohucbhuocbouyqevoquvouqecuowahsdasfnbkjlwbedhjqwbhdjasbiucbapsixzucbpizxgvbpiasubfciuwabfieupwqbfuiwapbfphiasbdfhpbqehifbqwhefbphjwqbfhsadbfiudasbfpiadsybfduyapsfvdasfviasduyfbpisadbfpiudsabikjlkasdfjlsadjijnvnsaovdnaposnviodsanfweakjsfdhiaosbfuioasbfywqeobfnasbfzbvozxcvyuzxbybufqwefgoqwuyegtyqwtqwieryuiohasfisoadusasdfwefwqfashbfuadosibvuiaspbvdusai
